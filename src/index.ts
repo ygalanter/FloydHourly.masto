@@ -72,3 +72,6 @@ let songs = loadSongs()
 doQuote();
 
 setInterval(doQuote, 60 * 60 * 1000); // 1 hour
+
+// Mastodon Verification
+// <a rel="me" href="https://botsin.space/@PinkFloydHourly">Mastodon</a>
